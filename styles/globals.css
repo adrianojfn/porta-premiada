@@ -16,3 +16,9 @@ a {
 * {
   box-sizing: border-box;
 }
+
+/* Criação de variáveis CSS para os componentes */
+:root {
+  --area-porta-altura: 310px;
+  --area-porta-largura: 200px;
+}
